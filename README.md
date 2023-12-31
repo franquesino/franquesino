@@ -1,13 +1,14 @@
 <h1 align="center">Hola 👋, soy Franco Rojas</h1>
 <h3 align="center">FullStack Developer || JavaScript || NodeJS || PostgreSQL</h3>
 
-- 🔭 Actualmente colaboro en [Mi proyecto Final de la academia de Henry]((https://github.com/andruizgom/e-Geek-Collectibles.git))
+- 🔭 Soy un apasionado del mundo de la programación y del aprendizaje constante, por eso decidí entrar al Bootcamp de Soy Henry, finalizando mi cursada como Full Stack developer en 2023.
+-  Antes estudiaba Administración de empresas, sin embargo decidí aventurarme y me cambié a Ingeniería en Informática, cumpliendo 2 años de estudios. 
 
-- 🌱 En la actualidad estoy aprendiendo **MongoDB, PHP,TypeScript**
+- 🌱 Mis competencias son la adaptabilidad, la resiliencia, el trabajo en equipo, la colaboración, ayudar, diseñar y desarrollar.
 
-- 👯 Pude finalizar mi proyecto individual [Countries](https://github.com/franquesino/Countries)
+- 👯 Pude finalizar mi proyecto grupal en [E-Geek-Collectibles](https://github.com/andruizgom/e-Geek-Collectibles)
 
-- 💬 Puedes preguntarme sobre **react, PHP, PostgreSQL**
+- 💬 Puedes preguntarme sobre **JavaScript, react, express, NodeJs, PostgreSQL, Bootstrap y Tailwind**
 
 - 📫 Puedes contactarme en **franquesino@gmail.com**
 
