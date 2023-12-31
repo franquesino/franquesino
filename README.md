@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Franco Rojas</h1>
 <h3 align="center">FullStack Developer || JavaScript || NodeJS || PostgreSQL</h3>
 
-- 🔭 Actualmente colaboro en [Mi proyecto Final de la academia de Henry](https://github.com/GeroPazPapa1/Proyecto-Final)
+- 🔭 Actualmente colaboro en [Mi proyecto Final de la academia de Henry]((https://github.com/andruizgom/e-Geek-Collectibles.git))
 
 - 🌱 En la actualidad estoy aprendiendo **MongoDB, PHP,TypeScript**
 
