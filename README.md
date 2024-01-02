@@ -5,7 +5,7 @@
 -  Antes estudiaba Administración de empresas, sin embargo decidí aventurarme y me cambié a Ingeniería en Informática, cumpliendo 2 años de estudios en Diciembre de 2023. 
 
 - 🌱 Mis competencias son la adaptabilidad, la resiliencia, trabajar en equipo, colaborar, ayudar, diseñar y desarrollar.
-- Mi nivel de inglés es A1 Basic.
+- Mi nivel de inglés es A2 Elementary.
 
 - 👯 Para aprobar mi curso de Full Stack Developer en Soy Henry, tuvimos que crear un proyecto grupal que consistió en diseñar y desarrollar una aplicación de ecommerce. Puedes mirar nuestro proyecto en [E-Geek-Collectibles](https://github.com/andruizgom/e-Geek-Collectibles)
 
